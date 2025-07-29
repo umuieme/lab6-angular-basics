@@ -2,6 +2,17 @@
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.15.
 
+## Learning
+- getting started with angular components
+- Component composition
+- Control flow in components - @if
+- control flow - @for
+- property binding
+- event handling
+- component input properties
+- component output properties
+- Deferrable views
+
 ## Development server
 
 To start a local development server, run:
